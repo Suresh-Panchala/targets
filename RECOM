@@ -1,3 +1,10 @@
 TM1638 ---> https://github.com/maxint-rd/TM16xx
 LCDMENU --> https://github.com/forntoh/LcdMenu // BEST for 2,3 Buttons
 LCDMENU --> https://github.com/Jomelo/LCDMenuLib 
+
+
+
+Electron Issue
+
+npm install --save-dev electron-rebuild
+.\node_modules\.bin\electron-rebuild.cmd
